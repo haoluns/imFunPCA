@@ -1,4 +1,4 @@
-
+ 
 findmean = function(observed,timepoints,delta,threshold=1e-3,minit=3,gamma=0){
 
 

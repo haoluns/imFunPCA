@@ -4,7 +4,7 @@ library(fda);
 library(dplyr)
 library(reshape2)
 library(data.table)
-
+ 
 
 
 meanfit <- readRDS("mean.rds")
